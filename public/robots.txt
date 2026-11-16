@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blitz-casino-studio.eduhhotmart.chatgpt.site/sitemap.xml
