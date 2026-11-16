@@ -1,0 +1,10 @@
+{
+  "name": "ophiraa-ai-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/preview-ai-studio.mjs",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/preview-ai-studio.mjs dist"
+  }
+}

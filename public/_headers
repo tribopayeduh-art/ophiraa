@@ -1,0 +1,51 @@
+/shared/service-worker/*
+  Service-Worker-Allowed: /
+  Cache-Control: no-store
+/game-bridge-v6.js
+  Cache-Control: no-store
+/*.html
+  Cache-Control: no-cache
+
+/api/*
+  X-Robots-Tag: noindex, nofollow
+/docs/*
+  X-Robots-Tag: noindex, nofollow
+/shared/*
+  X-Robots-Tag: noindex, nofollow
+
+/126/*
+  X-Robots-Tag: noindex, nofollow
+
+/98/*
+  X-Robots-Tag: noindex, nofollow
+
+/1695365/*
+  X-Robots-Tag: noindex, nofollow
+
+/1543462/*
+  X-Robots-Tag: noindex, nofollow
+
+/68/*
+  X-Robots-Tag: noindex, nofollow
+
+/69/*
+  X-Robots-Tag: noindex, nofollow
+
+/40/*
+  X-Robots-Tag: noindex, nofollow
+
+/42/*
+  X-Robots-Tag: noindex, nofollow
+
+/48/*
+  X-Robots-Tag: noindex, nofollow
+
+/63/*
+  X-Robots-Tag: noindex, nofollow
+
+/125/*
+  X-Robots-Tag: noindex, nofollow
+
+/admin/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: no-store
